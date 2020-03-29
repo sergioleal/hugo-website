@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Mulheres empreendedoras</title>
-    <link>/hugo-website/about/</link>
-    <description>Recent content in About on Mulheres empreendedoras</description>
+    <title>About on Mulheres empreendedoras pro</title>
+    <link>/me/about/</link>
+    <description>Recent content in About on Mulheres empreendedoras pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/hugo-website/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/me/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
