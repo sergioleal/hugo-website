@@ -1,5 +1,5 @@
-title = "Mulheres empreendedoras"
-baseURL = "/hugo-website"
+title = "Mulheres empreendedoras pro"
+baseURL = "/me"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
